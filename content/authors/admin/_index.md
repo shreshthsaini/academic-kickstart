@@ -17,7 +17,7 @@ organizations:
   url: "iitj.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Shreshth Saini, a final year student pursing my B.Tech in Electrical Engineering at [Indian Institue of Technology - Jodhpur](iitj.ac.in). My research interests are highly interdisciplinary covering machine learning in general, application of deep learning in medical image analysis, biometrics and computer vision. I also work with memory based approaches for finacial data analysis. For a while, i have been trying to shift my focus towards unsupervised & reinforcement learnings.
+bio: Undergraduate, EE, IIT Jodhpur. Pursing my interest in Deep Learning application in Medical/HealthCare.
 
 interests:
 - Artificial Intelligence
@@ -62,6 +62,8 @@ user_groups:
 - []
 - []
 ---
+I am Shreshth Saini, a final year student pursing my B.Tech in Electrical Engineering at [Indian Institue of Technology - Jodhpur](iitj.ac.in). My research interests are highly interdisciplinary covering machine learning in general, application of deep learning in medical image analysis, biometrics and computer vision. I also work with memory based approaches for finacial data analysis. For a while, i have been trying to shift my focus towards unsupervised & reinforcement learnings.
+
 Currently, Working with [Dr. Mengling 'Mornin'](https://mornin-feng.com) Feng on skin cancer analysis using deep learning. I am also working with [Dr. Anil Kumar Tiwari](http://home.iitj.ac.in/~akt/) on Segmentation of left atrium cavity in patients affected by atrial fibrillation. Previously, i had an opportunity of woking with [Dr. Aditya Nigam](http://faculty.iitmandi.ac.in/~aditya/) on application of deep learning in biometrics. 
 
 

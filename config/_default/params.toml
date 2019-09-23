@@ -22,7 +22,7 @@ font = "Minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -109,8 +109,9 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/shreshthsaini"},
+  {icon = "twitter", icon_pack = "fab", name = "Follow me", link = "https://twitter.com/shreshthsaini"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:shreshthfeel_1"},
+  {icon = "Facebook", icon_pack = "fab", name = "DM me", link = "https://www.facebook.com/shreshth.saini"},
 
 # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -126,6 +127,7 @@ sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "shreshthsaini"
+Facebook = "shreshth.saini"
 
 ############################
 ## Regional Settings
