@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student(Final-Year) | Electrical Engineering | IIT Jodhpur
+role: Student(Final-Year) | Electrical Engineering
 # Organizations/Affiliations
 organizations:
 - name: IIT Jodhpur
