@@ -1,6 +1,6 @@
 +++
 title = "Genome sequencing"
-date = 2018-07-19T11:16:57+05:30
+date = 2019-07-19
 draft = false
 
 
@@ -9,7 +9,7 @@ draft = false
 tags = []
 categories = []
 summary = "Sequencing of genomes is an important land mark that humanity has achieved as it opens door to various explorations such as understanding life at a very fundamental level and Precision Medicine which can have the great impact on everyone's life, this post reflects my understanding of genome sequencing and some methods to do the same"
-authors = ["uddeshya"]
+authors = ["shreshth saini"]
 
 
 # Projects (optional).
