@@ -1,6 +1,6 @@
 +++
 title = "PixISegNet: Pixel Level Iris Segmentation Network using Convolutional Encoder-Decoder with Stacked Hourglass Bottleneck"
-date = 
+date = 2019-06-06
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
