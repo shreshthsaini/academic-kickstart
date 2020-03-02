@@ -62,7 +62,7 @@ abstract = "Biometric segmentation to obtain the region of interest under non-co
 #
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "details", url = "publication/PixlSegNet/"}]
+url_custom = [{name = "details", url = "/publication/PixlSegNet/"}]
 #
 ## Digital Object Identifier (DOI)
 #doi = ""
