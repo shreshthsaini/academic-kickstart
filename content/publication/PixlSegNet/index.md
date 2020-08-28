@@ -27,7 +27,9 @@ abstract = "Biometric segmentation to obtain the region of interest under non-co
 # abstract_short = "Robust Iris Segmentation network"
 #
 # Is this a featured publication? (true/false)
- featured = true
+ featured = false
+ categories = [Deep Learning, Biometrics]
+ tags = [CNN, Segmentation, Biometric, Iris, Non-ideal, Dice Similarity Coefficient]
 #
 ## Projects (optional).
 ##   Associate this publication with one or more of your projects.
@@ -50,7 +52,7 @@ abstract = "Biometric segmentation to obtain the region of interest under non-co
 ##tags = []
 #
 # Links (optional).
-#url_pdf = "./Robust-SRGAN.pdf"
+#url_pdf = "/publication/PixISegNet/PixISegNet.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
@@ -77,4 +79,4 @@ url_custom = [{name = "details", url = "/publication/PixlSegNet/"}]
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = ""
 +++
-This work is accepted at IET-Biometrics.
+
