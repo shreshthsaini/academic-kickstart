@@ -10,21 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Student(Final-Year) | Electrical Engineering
+role: Research Engineer (AI)
 # Organizations/Affiliations
 organizations:
-- name: IIT Jodhpur
-  url: "iitj.ac.in"
+- name: Arkray Inc. 
+  url: "arkray.co.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate, EE, IIT Jodhpur. Pursing my interest in Deep Learning application in Medical/HealthCare.
+bio: B.Tech(EE), IIT Jodhpur. Pursing my interest in Deep Learning applications in Medical/HealthCare.
 
 interests:
 - Artificial Intelligence
+- Machine Learning
 - Deep Learning
-- Medical Image Analysis
 - Computer Vision
 - Biometrics
+- Medical Image Analysis
 
 education:
   courses:
@@ -62,8 +63,8 @@ user_groups:
 - []
 - []
 ---
-I am Shreshth Saini, a final year student pursing my B.Tech in Electrical Engineering at [Indian Institue of Technology - Jodhpur](iitj.ac.in). My research interests are highly interdisciplinary covering machine learning in general, application of deep learning in medical image analysis, biometrics and computer vision. I also work with memory based approaches for finacial data analysis. For a while, i have been trying to shift my focus towards unsupervised & reinforcement learnings.
+I am Shreshth Saini, recently completed my B.Tech in Electrical Engineering from [Indian Institue of Technology - Jodhpur](iitj.ac.in). My research interests are highly interdisciplinary covering machine learning in general, application of deep learning in medical image analysis, biometrics and computer vision. I also work with memory based approaches for finacial data analysis. For a while, i have been trying to shift my focus towards unsupervised & reinforcement learnings.
 
-Currently, Working with [Dr. Mengling 'Mornin'](https://mornin-feng.com) Feng on skin cancer analysis using deep learning. I am also working with [Dr. Anil Kumar Tiwari](http://home.iitj.ac.in/~akt/) on Segmentation of left atrium cavity in patients affected by atrial fibrillation. Previously, i had an opportunity of woking with [Dr. Aditya Nigam](http://faculty.iitmandi.ac.in/~aditya/) on application of deep learning in biometrics. 
+Currently, I am working as a Research Engineer(AI). I have been working with [Dr. Mengling 'Mornin'](https://mornin-feng.com) Feng on skin cancer analysis using deep learning. At IIT Jodhpur, I had been actively working with [Dr. Anil Kumar Tiwari](http://home.iitj.ac.in/~akt/) on multiple projects of which two notable were Segmentation of left atrium cavity in patients affected by atrial fibrillation and Diagnosis of Diabetic Retinopathy using AI and [Dr. Rajendra Nagar](http://home.iitj.ac.in/~rn/) on Image Super resolution and X-ray image Analysis. I also had the opportunity of woking with [Dr. Aditya Nigam](http://faculty.iitmandi.ac.in/~aditya/) on application of deep learning in biometrics during my early days of exposure to the field of Deep learning and Applications. 
 
 
