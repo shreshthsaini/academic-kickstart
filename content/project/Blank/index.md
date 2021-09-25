@@ -1,5 +1,5 @@
 +++
-title = "New York Taxi Analysis"
+title = "Blank"
 date = 2016-01-19T22:17:42+05:30
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Julia scripts to process, analyze and visualize the results of New York taxi dataset"
+summary = "Blank 1.1"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -23,7 +23,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/udion/NYTaxiAnalysis"
+url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
@@ -44,4 +44,4 @@ url_poster = ""
   focal_point = "Smart"
 +++
 
-This summarizes my work at my first ever internship at **Julia Computing** during the winter breaks of 2016 (Nov-2016 to Jan-2017). I wrote julia scripts to load big datasets efficiently and perform unsupervised learning tasks such as *Nearest-Neighbour* clusterring and supervised learning tasks such as *Generalized linear models* for predicting the costs and journey time given relevant variables and location. To create some cool visualizations and of valuable insight I used google maps api!
+Blank

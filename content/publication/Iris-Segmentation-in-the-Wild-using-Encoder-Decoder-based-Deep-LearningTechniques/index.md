@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Iris Segmentat on in the Wild Using Encoder Decoder Based Deep LearningTechniques"
+title: "Iris Segmentation in the Wild Using Encoder Decoder Based Deep LearningTechniques"
 book: "AI and Deep Learning in Biometric Security: Trends, Potential and Challenge"
 authors: [Shreshth Saini, Divij Gupta, Ranjeet Ranjan Jha, Gaurav Jaswal, Aditya Nigam]
 date: 2020-08-28T17:58:59+05:30

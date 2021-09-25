@@ -14,22 +14,22 @@ role: Research Engineer (AI)
 # Organizations/Affiliations
 organizations:
 - name: Arkray Inc. 
-  url: "arkray.co.jp"
+  url: "http://www.arkray.co.jp/english/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: B.Tech(EE), IIT Jodhpur. Pursing my interest in Deep Learning applications in Medical/HealthCare.
+bio: Research Engineer-AI at Arkray, Inc. Pursing my interest in R&D happening at the intersection of Computer vision, Machine Learning, Biomedical and Healthcare Informatics.
 
 interests:
-- Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Biometrics
 - Medical Image Analysis
+- Biomedical and Healthcare Informatics
+- Biometrics
 
 education:
   courses:
-  - course: Electrical Engineering
+  - course: B.Tech(EE)
     institution: IIT Jodhpur
     year: 2020
  
@@ -63,8 +63,8 @@ user_groups:
 - []
 - []
 ---
-I am Shreshth Saini, recently completed my B.Tech in Electrical Engineering from [Indian Institue of Technology - Jodhpur](iitj.ac.in). My research interests are highly interdisciplinary covering machine learning in general, application of deep learning in medical image analysis, biometrics and computer vision. I also work with memory based approaches for finacial data analysis. For a while, i have been trying to shift my focus towards unsupervised & reinforcement learnings.
+I am a Research Engineer(AI) at [Arkray, Inc.](http://www.arkray.co.jp/english/) where I work on developing industry leading medical AI solutions. Notably, I have been working on challenging pathological datasets to develope highly reliable and light deep learning models which could be deployed on devices like [Aution-Eye](http://www.arkray.co.jp/english/products/laboratory/urinalysis_analyzers/ai-4510.html). My research interest is highly interdisciplinary covering machine learning, computer vision, medical image analysis, biomedical and healthcare informatics. I occasionally work on deep learning applications in biometrics-from where I started my research journey.
 
-Currently, I am working as a Research Engineer(AI). I have been working with [Dr. Mengling 'Mornin'](https://mornin-feng.com) Feng on skin cancer analysis using deep learning. At IIT Jodhpur, I had been actively working with [Dr. Anil Kumar Tiwari](http://home.iitj.ac.in/~akt/) on multiple projects of which two notable were Segmentation of left atrium cavity in patients affected by atrial fibrillation and Diagnosis of Diabetic Retinopathy using AI and [Dr. Rajendra Nagar](http://home.iitj.ac.in/~rn/) on Image Super resolution and X-ray image Analysis. I also had the opportunity of woking with [Dr. Aditya Nigam](http://faculty.iitmandi.ac.in/~aditya/) on application of deep learning in biometrics during my early days of exposure to the field of Deep learning and Applications. 
+I completed my B.Tech in Electrical Engineering from [Indian Institue of Technology - Jodhpur](https://iitj.ac.in/) in May, 2020. I was fortunate to work with [Dr. Mengling 'Mornin' Feng](https://mornin-feng.com) Feng in Healthcare informatics at Healthcare AI group at National University of Singapore(NUS). During my undergrad, I was actively working with [Dr. Anil Kumar Tiwari](http://home.iitj.ac.in/~akt/), [Dr. Rajendra Nagar](http://home.iitj.ac.in/~rn/), and [Dr. Deepak Mishra](http://home.iitj.ac.in/~dmishra/) in biomedical informatics, healtcare analytics and computer vision. I am eternally greatful to [Dr. Aditya Nigam](http://faculty.iitmandi.ac.in/~aditya/), who identified and steered my research interest early in my undergrad.
 
 
