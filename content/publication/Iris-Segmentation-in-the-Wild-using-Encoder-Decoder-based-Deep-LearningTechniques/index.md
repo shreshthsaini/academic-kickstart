@@ -3,7 +3,7 @@
 
 title: "Iris Segmentation in the Wild Using Encoder Decoder Based Deep LearningTechniques"
 book: "AI and Deep Learning in Biometric Security: Trends, Potential and Challenge"
-authors: [Shreshth Saini, Divij Gupta, Ranjeet Ranjan Jha, Gaurav Jaswal, Aditya Nigam]
+authors: [Shreshth Saini*, Divij Gupta, Ranjeet Ranjan Jha, Gaurav Jaswal, Aditya Nigam]
 date: 2020-08-28T17:58:59+05:30
 doi: ""
 
@@ -37,13 +37,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "/publication/Iris-Segmentat-on-in-the-Wild-using-Encoder-Decoder-based-Deep-LearningTechniques/"
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003003489-12/iris-segmentation-wild-using-encoder-decoder-based-deep-learning-techniques-shreshth-saini-divij-gupta-ranjeet-ranjan-jha-gaurav-jaswal-aditya-nigam
 url_video:
 
 # Featured image

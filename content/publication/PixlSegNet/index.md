@@ -4,7 +4,7 @@ date = 2019-06-06
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = [Ranjeet Ranjan Jha, Gaurav Jaswal, Shreshth Saini, Divij Gupta, Aditya Nigam]
 #
 # Publication type.
 # Legend:
@@ -53,7 +53,7 @@ abstract = "Biometric segmentation to obtain the region of interest under non-co
 ##tags = []
 #
 # Links (optional).
-#url_pdf = "/publication/PixISegNet/PixISegNet.pdf"
+#url_pdf =
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
@@ -61,7 +61,7 @@ abstract = "Biometric segmentation to obtain the region of interest under non-co
 #url_slides = ""
 #url_video = ""
 #url_poster = ""
-#url_source = ""
+#url_source = https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-bmt.2019.0025
 #
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
