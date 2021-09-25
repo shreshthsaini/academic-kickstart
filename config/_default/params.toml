@@ -22,7 +22,7 @@ font = "Minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -90,11 +90,11 @@ phone = "(+91) 9549 50 2722"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "373 B1", city = "Jodhpur", region = "Raj", postcode = "342037", country = "India", country_code = "IN"}
+address = {street = "Aastha Sadan, New Nehru Nagar", city = "Sheoganj", region = "Raj", postcode = "307027", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "26.472792", longitude = "73.115381"}
+coordinates = {latitude = "25.131506", longitude = " 73.075829"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -112,6 +112,7 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Follow me", link = "https://twitter.com/shreshthsaini"},
   {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:shreshthfeel_1"},
   {icon = "facebook", icon_pack = "fab", name = "facebook", link = "https://www.facebook.com/shreshth.saini"},
+  {icon = "email", icon_pack = "fab", name = "email", link = "saini.2@iitj.ac.in"},
 
 # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

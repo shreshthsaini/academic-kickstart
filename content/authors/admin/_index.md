@@ -62,9 +62,12 @@ email: ""
 user_groups:
 - []
 - []
+Sizes: "M" 
+
 ---
 I am a Research Engineer(AI) at [Arkray, Inc.](http://www.arkray.co.jp/english/) where I work on developing industry leading medical AI solutions. Notably, I have been working on challenging pathological datasets to develope highly reliable and light deep learning models which could be deployed on devices like [Aution-Eye](http://www.arkray.co.jp/english/products/laboratory/urinalysis_analyzers/ai-4510.html). My research interest is highly interdisciplinary covering machine learning, computer vision, medical image analysis, biomedical and healthcare informatics. I occasionally work on deep learning applications in biometrics-from where I started my research journey.
 
 I completed my B.Tech in Electrical Engineering from [Indian Institue of Technology - Jodhpur](https://iitj.ac.in/) in May, 2020. I was fortunate to work with [Dr. Mengling 'Mornin' Feng](https://mornin-feng.com) in Healthcare informatics at Healthcare AI group at National University of Singapore(NUS). During my undergrad, I was actively working with [Dr. Anil Kumar Tiwari](http://home.iitj.ac.in/~akt/), [Dr. Rajendra Nagar](http://home.iitj.ac.in/~rn/), and [Dr. Deepak Mishra](http://home.iitj.ac.in/~dmishra/) in biomedical informatics, healtcare analytics and computer vision. I am eternally greatful to [Dr. Aditya Nigam](http://faculty.iitmandi.ac.in/~aditya/), who identified and steered my research interest early in my undergrad.
+
 
 

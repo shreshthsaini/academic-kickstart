@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Talks
 
 # View.
 #   1 = List
@@ -11,4 +11,21 @@ view: 2
 header:
   caption: ""
   image: ""
+
+
+title : 
+date: 
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Medical Image Analysis
+- Biomedical and Healthcare Informatics
+- Biometrics
+
+---
+
+
+
+
 ---
