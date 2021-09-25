@@ -4,7 +4,7 @@ date : 2019-06-06
 draft : false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors : [Ranjeet Ranjan Jha, Gaurav Jaswal, Shreshth Saini, Divij Gupta, Aditya Nigam]
+authors : [Ranjeet Ranjan Jha, Gaurav Jaswal, Shreshth Saini*, Divij Gupta, Aditya Nigam]
 #
 # Publication type.
 # Legend:
