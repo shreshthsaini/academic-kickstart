@@ -3,7 +3,7 @@
 
 title: "(M)SLAe-Net: Multi-Scale Multi-Level Attention embedded Network for Retinal Vessel Segmentation"
 authors: [Shreshth Saini*, Geetika Agrawal]
-date: 2021-07-1
+date: 2021-07-2
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
