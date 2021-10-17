@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://arxiv.org/abs/2109.02084
+url_source: https://doi.org/10.1109/ICHI52183.2021.00042
 url_video:
 
 # Featured image
