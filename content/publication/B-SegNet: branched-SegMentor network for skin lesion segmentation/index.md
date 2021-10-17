@@ -3,7 +3,7 @@
 
 title: "B-SegNet: branched-SegMentor network for skin lesion segmentation"
 authors: [Shreshth Saini*, Young Seok Jeon, Mengling 'Mornin' Feng]
-date: 2021-02-2021
+date: 2021-06-14T21:21:53+05:30
 doi: "10.1145/3450439.3451873"
 
 # Schedule page publish date (NOT publication's date).
