@@ -17,12 +17,40 @@ author : "admin"
 
 
 experience:
+  - title: 'Graduate Research Assistant'
+    company: ' Laboratory for Image and Video Engineering (LIVE), UT Austin'
+    company_url: 'https://live.ece.utexas.edu/'
+    location: 'Austin, United States'
+    date_start: '2022-08'
+    date_end: ''
+    description: '**Supervisor**: [Prof. Alan C Bovik](https://www.ece.utexas.edu/people/faculty/alan-bovik)'
+#        Responsibilities include:
+        
+#        * Analysing
+#        * Modelling
+#        * Deploying
+
+
+  - title: 'Research Engineer/Machine Learning Engineer'
+    company: 'BioMind, Singapore'
+    company_url: 'https://biomind.ai/'
+    location: 'Singapore, Singapore'
+    date_start: '2022-02'
+    date_end: '2022-06'
+    description: >-
+#        Responsibilities include:
+        
+#        * Analysing
+#        * Modelling
+#        * Deploying
+
+
   - title: 'Research Engineer(AI)'
     company: 'Arkray, Inc.'
     company_url: 'http://www.arkray.co.jp/english/'
     location: 'Pune, India'
-    date_start: '2020-08-01'
-    date_end: ''
+    date_start: '2020-08'
+    date_end: '2021-12'
     description: >-
 #        Responsibilities include:
         
@@ -54,6 +82,5 @@ experience:
     date_start: '2018-05-01'
     date_end: '2020-07-01'
     description: '**Supervisor**: [Dr. Aditya Nigam](http://faculty.iitmandi.ac.in/~aditya/)'
-
 
 ---
