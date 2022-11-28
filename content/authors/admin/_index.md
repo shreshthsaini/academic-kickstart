@@ -1,4 +1,5 @@
 ---
+
 # Display name
 name: Shreshth Saini
 
@@ -46,9 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:saini.2@iitj.ac.in'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
-  link: 'https://www.linkedin.com/in/shreshthfeel/'  # For a direct email link, use "mailto:test@example.org".
+  link: 'https://www.linkedin.com/in/shreshthfeel/'  # For a direct email link, use "mailto:test@example.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/shreshthsaini

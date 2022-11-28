@@ -21,7 +21,7 @@ experience:
     company: ' Laboratory for Image and Video Engineering (LIVE), UT Austin'
     company_url: 'https://live.ece.utexas.edu/'
     location: 'Austin, United States'
-    date_start: '2022-08'
+    date_start: '2022-08-01'
     date_end: ''
     description: '**Supervisor**: [Prof. Alan C Bovik](https://www.ece.utexas.edu/people/faculty/alan-bovik)'
 #        Responsibilities include:
@@ -35,8 +35,8 @@ experience:
     company: 'BioMind, Singapore'
     company_url: 'https://biomind.ai/'
     location: 'Singapore, Singapore'
-    date_start: '2022-02'
-    date_end: '2022-06'
+    date_start: '2022-02-01'
+    date_end: '2022-06-01'
     description: >-
 #        Responsibilities include:
         
@@ -49,8 +49,8 @@ experience:
     company: 'Arkray, Inc.'
     company_url: 'http://www.arkray.co.jp/english/'
     location: 'Pune, India'
-    date_start: '2020-08'
-    date_end: '2021-12'
+    date_start: '2020-08-01'
+    date_end: '2021-12-01'
     description: >-
 #        Responsibilities include:
         
