@@ -74,7 +74,7 @@ user_groups:
 Sizes: "M" 
 
 ---
-I am a PhD student at the Laboratory for Image and Video Engineering ([LIVE](https://live.ece.utexas.edu/)) at University of Texas at Austin. I am advised bt Professor Alan C Bovik. My current research focus is on computer vision, deep learning, and high dynamic range video content. 
+I am a PhD student at the Laboratory for Image and Video Engineering ([LIVE](https://live.ece.utexas.edu/)) at University of Texas at Austin. I am advised by Professor Alan C Bovik. My current research focus is on computer vision, deep learning, and high dynamic range video content. 
 
 Before this, I have worked as Research Engineer/Machine Learning Engineer at [BioMind](https://biomind.ai/), Singapore and as Research Engineer - AI at [Arkray, Inc.](http://www.arkray.co.jp/english/). Where I worked on developing industry leading medical AI solutions. Notably, I have been working on challenging pathological datasets to develope highly reliable and light deep learning models which could be deployed on devices like [Aution-Eye](http://www.arkray.co.jp/english/products/laboratory/urinalysis_analyzers/ai-4510.html). 
 
